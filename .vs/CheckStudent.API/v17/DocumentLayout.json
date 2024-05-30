@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\models\\checkstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\models\\checkstudentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:20:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:28:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\appsettings.json",
+              "RelativeDocumentMoniker": "CheckStudent.API\\appsettings.json",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\appsettings.json",
+              "RelativeToolTip": "CheckStudent.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-30T14:51:13.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:45:33.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Program.cs",
+              "RelativeDocumentMoniker": "CheckStudent.API\\Program.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Program.cs",
+              "RelativeToolTip": "CheckStudent.API\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:41:18.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:34:52.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAwwBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:34:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "CheckStudent.Repository\\Repository\\GenericRepository.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "CheckStudent.Repository\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAawDoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:32:50.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CheckStudentContext.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Models\\CheckStudentContext.cs",
+              "RelativeDocumentMoniker": "CheckStudent.Repository\\Models\\CheckStudentContext.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Models\\CheckStudentContext.cs",
+              "RelativeToolTip": "CheckStudent.Repository\\Models\\CheckStudentContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:31:37.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "CheckStudent.Repository\\Class1.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Class1.cs",
+              "RelativeToolTip": "CheckStudent.Repository\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:20:36.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\bin\Debug\net8.0\CheckStudent.Repository.deps.json
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\bin\Debug\net8.0\CheckStudent.Repository.dll
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\bin\Debug\net8.0\CheckStudent.Repository.pdb
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.AssemblyInfoInputs.cache
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.AssemblyInfo.cs
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.csproj.CoreCompileInputs.cache
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.dll
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\refint\CheckStudent.Repository.dll
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.pdb
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\ref\CheckStudent.Repository.dll
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.csproj.AssemblyReference.cache
