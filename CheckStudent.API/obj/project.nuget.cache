@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "mtpovpswwooxSGJ0qjMWn0AfwrlOLLVr4qaGeh4CkamngMuYJo0d5+LvJcayJXNiVxdHxQt8zjjB8m+3FZwx+w==",
+  "dgSpecHash": "t91u+8UlxR5a0b8/3zS87DHMGQlNbhhyh+qrH0xCZVntWJth0h8GcLiHQX1NB/vhS/FF7MA1RnjGohEEwHT9tQ==",
   "success": true,
   "projectFilePath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\CheckStudent.API.csproj",
   "expectedPackageFiles": [
@@ -37,6 +37,7 @@
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
+    "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",

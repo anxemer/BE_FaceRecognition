@@ -56,6 +56,7 @@ D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\
 D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\CheckStudent.API.csproj.CoreCompileInputs.cache
 D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\CheckStudent.API.MvcApplicationPartsAssemblyInfo.cs
 D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\CheckStudent.API.MvcApplicationPartsAssemblyInfo.cache
+D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\CheckStudent.API.sourcelink.json
 D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\staticwebassets.build.json
 D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\staticwebassets.development.json
 D:\University\SWD392\CheckStudent\Source Code\CheckStudent.API\CheckStudent.API\obj\Debug\net8.0\staticwebassets\msbuild.CheckStudent.API.Microsoft.AspNetCore.StaticWebAssets.props
