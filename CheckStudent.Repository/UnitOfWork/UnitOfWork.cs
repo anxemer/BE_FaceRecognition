@@ -76,7 +76,7 @@ namespace CheckStudent.Repository.UnitOfWork
             }
         }
 
-        public GenericRepository<Course> OrderRepository
+        GenericRepository<Course> IUnitOfWork.CourseRepository
         {
             get
             {
@@ -88,6 +88,6 @@ namespace CheckStudent.Repository.UnitOfWork
             }
         }
 
-        public GenericRepository<Course> CourseRepository => throw new NotImplementedException();
+        //public GenericRepository<Course> CourseRepository => throw new NotImplementedException();
     }
 }

@@ -4,21 +4,21 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace CheckStudent.API.Controllers
 {
-    [Route("api/students")]
+    [Route("api/courses")]
     [ApiController]
-    public class StudentController : ControllerBase
+    public class CourseController : ControllerBase
     {
         private IUnitOfWork _unitOfWork;
 
-        public StudentController(IUnitOfWork unitOfWork)
+        public CourseController(IUnitOfWork unitOfWork)
         {
             _unitOfWork = unitOfWork;
         }
         [HttpGet]
-        public IActionResult GetStudents()
+        public IActionResult GetCourses()
         {
-            var students = _unitOfWork.StudentRepository.Get();
-            return Ok(students);
+            var courses = _unitOfWork.CourseRepository.Get();
+            return Ok(courses);
         }
     }
 }
