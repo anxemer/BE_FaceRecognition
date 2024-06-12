@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\controllers\\semestercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\semestercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,10 +62,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:27:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
             },
             {
@@ -75,19 +75,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SemesterController.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\SemesterController.cs",
+              "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\SemesterController.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\SemesterController.cs",
+              "RelativeToolTip": "CheckStudent.API\\Controllers\\SemesterController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T03:57:16.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CourseController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\CourseController.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\CourseController.cs",
               "RelativeToolTip": "CheckStudent.API\\Controllers\\CourseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA2AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T01:37:24.593Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Program.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Program.cs",
@@ -95,12 +108,11 @@
               "RelativeToolTip": "CheckStudent.API\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:27:38.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T01:27:38.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\appsettings.json",
               "RelativeDocumentMoniker": "CheckStudent.API\\appsettings.json",
@@ -108,38 +120,37 @@
               "RelativeToolTip": "CheckStudent.API\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-05T01:28:01.282Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T01:28:01.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "RelativeToolTip": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
-              "ViewState": "AQIAAEYAAAAAAAAAAAAwwFoAAAAKAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAF8AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T01:10:01.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeToolTip": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAtwBEAAAAFAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAwwA4AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T01:09:46.688Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentController.cs",
@@ -147,8 +158,7 @@
               "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwBUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-31T15:13:28.106Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T15:13:28.106Z"
             }
           ]
         }
