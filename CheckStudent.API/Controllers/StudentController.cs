@@ -1,4 +1,6 @@
-﻿using CheckStudent.Repository.UnitOfWork;
+﻿using CheckStudent.Repository.DTO.Student;
+using CheckStudent.Repository.Models;
+using CheckStudent.Repository.UnitOfWork;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -19,6 +21,28 @@ namespace CheckStudent.API.Controllers
         {
             var students = _unitOfWork.StudentRepository.Get();
             return Ok(students);
+        }
+        [HttpPost]
+        public IActionResult AddStudent([FromBody] StudentDTO student)
+        {
+            if (student.Code == null)
+            {
+                return BadRequest("Student data is null");
+            }
+            var addStudent = new Student
+            {
+                Code = student.Code,
+                Name = student.Name,
+                Email = student.Email,
+                Phone = student.Phone,
+                Address = student.Address,
+                DateOfBirth = student.DateOfBirth,
+                Gender = student.Gender,
+                Status = student.Status
+            };
+            _unitOfWork.StudentRepository.Insert(addStudent);
+            _unitOfWork.Save();
+            return Ok(student);
         }
     }
 }
