@@ -15,7 +15,7 @@ namespace CheckStudent.Repository.UnitOfWork
         private GenericRepository<StudentFace> _studentFaceRepo;
         private GenericRepository<Course> _courseRepo;
         private GenericRepository<Semester> _semesterRepo;
-
+        private GenericRepository<StudentInCourse> _studentInCourseRepo;
 
         public UnitOfWork(CheckStudentContext context)
         {
@@ -95,6 +95,17 @@ namespace CheckStudent.Repository.UnitOfWork
                     this._semesterRepo = new GenericRepository<Semester>(_context);
                 }
                 return _semesterRepo;
+            }
+        }
+        GenericRepository<StudentInCourse> IUnitOfWork.StudentInCourseRepository
+        {
+            get
+            {
+                if (_studentInCourseRepo == null)
+                {
+                    this._studentInCourseRepo = new GenericRepository<StudentInCourse>(_context);
+                }
+                return _studentInCourseRepo;
             }
         }
 

@@ -14,7 +14,7 @@ namespace CheckStudent.API.Controllers
             _unitOfWork = unitOfWork;
         }
         [HttpGet]
-        public IActionResult GetStudentFace()
+        public IActionResult GetStudentFaces()
         {
             var studentFaces = _unitOfWork.StudentFaceRepository.Get();
             return Ok(studentFaces);
