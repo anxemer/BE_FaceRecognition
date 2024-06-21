@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RzvEMsn2x0bOHU6YGtOe4SbEv4DwDVLTkB+JjqxfPoI847npn3KafNSw6DAw1HN2824CQRpex+xtj7Nr3M7AMQ==",
+  "dgSpecHash": "1g0BzKght8I18gK1qYH64kcsqHsZMyizQIbButCJ0lPzdwBCewIwcbgFWuH0yoKEYEDahREK36I8eilNi8sQNg==",
   "success": true,
-  "projectFilePath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
+  "projectFilePath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Phuc\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

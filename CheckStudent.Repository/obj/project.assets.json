@@ -2754,11 +2754,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
+      "projectUniqueName": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
       "projectName": "CheckStudent.Repository",
-      "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
+      "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
       "packagesPath": "C:\\Users\\Phuc\\.nuget\\packages\\",
-      "outputPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\obj\\",
+      "outputPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

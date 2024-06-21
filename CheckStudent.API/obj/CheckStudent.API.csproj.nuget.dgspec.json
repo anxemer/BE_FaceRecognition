@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\CheckStudent.API.csproj": {}
+    "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\CheckStudent.API.csproj": {}
   },
   "projects": {
-    "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\CheckStudent.API.csproj": {
+    "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\CheckStudent.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\CheckStudent.API.csproj",
+        "projectUniqueName": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\CheckStudent.API.csproj",
         "projectName": "CheckStudent.API",
-        "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\CheckStudent.API.csproj",
+        "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\CheckStudent.API.csproj",
         "packagesPath": "C:\\Users\\Phuc\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\obj\\",
+        "outputPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj": {
-                "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj"
+              "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj": {
+                "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj"
               }
             }
           }
@@ -85,14 +85,14 @@
         }
       }
     },
-    "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj": {
+    "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
+        "projectUniqueName": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
         "projectName": "CheckStudent.Repository",
-        "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
+        "projectPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
         "packagesPath": "C:\\Users\\Phuc\\.nuget\\packages\\",
-        "outputPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\obj\\",
+        "outputPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
