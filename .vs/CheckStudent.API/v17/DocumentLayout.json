@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\dto\\semester\\semesterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\dto\\semester\\semesterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\checkstudent.api\\checkstudent.repository\\dto\\course\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|solutionrelative:checkstudent.repository\\dto\\course\\coursedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -79,19 +83,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SemesterDTO.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\DTO\\Semester\\SemesterDTO.cs",
+              "RelativeDocumentMoniker": "CheckStudent.Repository\\DTO\\Semester\\SemesterDTO.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\DTO\\Semester\\SemesterDTO.cs",
+              "RelativeToolTip": "CheckStudent.Repository\\DTO\\Semester\\SemesterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:24:20.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CourseDTO.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\DTO\\Course\\CourseDTO.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\DTO\\Course\\CourseDTO.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\DTO\\Course\\CourseDTO.cs",
               "RelativeToolTip": "CheckStudent.Repository\\DTO\\Course\\CourseDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-21T15:34:00.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Semester.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Models\\Semester.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\Models\\Semester.cs",
@@ -99,12 +116,11 @@
               "RelativeToolTip": "CheckStudent.Repository\\Models\\Semester.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAkwA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T15:31:46.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T15:31:46.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Models\\Course.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\Models\\Course.cs",
@@ -112,12 +128,11 @@
               "RelativeToolTip": "CheckStudent.Repository\\Models\\Course.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwB4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T15:31:10.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T15:31:10.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\Models\\Student.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\Models\\Student.cs",
@@ -129,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentDTO.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\DTO\\Student\\StudentDTO.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\DTO\\Student\\StudentDTO.cs",
@@ -137,12 +152,11 @@
               "RelativeToolTip": "CheckStudent.Repository\\DTO\\Student\\StudentDTO.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T15:22:03.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T15:22:03.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "StudentFaceController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.API\\Controllers\\StudentFaceController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentFaceController.cs",
@@ -154,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
@@ -166,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\CheckStudent.API\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
