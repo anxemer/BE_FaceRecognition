@@ -17,5 +17,6 @@ namespace CheckStudent.Repository.UnitOfWork
         public GenericRepository<Course> CourseRepository { get; }
         public GenericRepository<Semester> SemesterRepository { get; }
         public GenericRepository<StudentInCourse> StudentInCourseRepository { get; }
+        public GenericRepository<Subject> SubjectRepository { get; }
     }
 }

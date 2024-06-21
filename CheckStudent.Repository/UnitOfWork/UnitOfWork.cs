@@ -16,6 +16,7 @@ namespace CheckStudent.Repository.UnitOfWork
         private GenericRepository<Course> _courseRepo;
         private GenericRepository<Semester> _semesterRepo;
         private GenericRepository<StudentInCourse> _studentInCourseRepo;
+        private GenericRepository<Subject> _subjectRepo;
 
         public UnitOfWork(CheckStudentContext context)
         {
@@ -108,7 +109,16 @@ namespace CheckStudent.Repository.UnitOfWork
                 return _studentInCourseRepo;
             }
         }
-
-        //public GenericRepository<Course> CourseRepository => throw new NotImplementedException();
+        GenericRepository<Subject> IUnitOfWork.SubjectRepository
+        {
+            get
+            {
+                if (_subjectRepo == null)
+                {
+                    this._subjectRepo = new GenericRepository<Subject>(_context);
+                }
+                return _subjectRepo;
+            }
+        }
     }
 }
