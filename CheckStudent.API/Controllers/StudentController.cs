@@ -16,12 +16,14 @@ namespace CheckStudent.API.Controllers
         {
             _unitOfWork = unitOfWork;
         }
+
         [HttpGet]
         public IActionResult GetStudents()
         {
             var students = _unitOfWork.StudentRepository.Get();
             return Ok(students);
         }
+
         [HttpPost]
         public IActionResult AddStudent([FromBody] StudentDTO student)
         {
