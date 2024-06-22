@@ -49,5 +49,14 @@ namespace CheckStudent.API.Controllers
             _unitOfWork.Save();
             return Ok(studentFace);
         }
+
+        [HttpDelete("{id}")]
+        public ActionResult DeleteStudentFace(int id)
+        {
+            var existedStudentFaceEntity = _unitOfWork.StudentFaceRepository.GetByID(id);
+            _unitOfWork.StudentFaceRepository.Delete(existedStudentFaceEntity);
+            _unitOfWork.Save();
+            return Ok();
+        }
     }
 }
