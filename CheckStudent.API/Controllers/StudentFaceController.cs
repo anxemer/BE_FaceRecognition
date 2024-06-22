@@ -25,6 +25,13 @@ namespace CheckStudent.API.Controllers
             return Ok(studentFaces);
         }
 
+        [HttpGet("{id}")]
+        public ActionResult GetStudentFaceById(int id)
+        {
+            var responseStudentFace = _unitOfWork.StudentFaceRepository.GetByID(id);
+            return Ok(responseStudentFace);
+        }
+
         [HttpPost]
         public IActionResult AddStudentFace([FromBody] StudentFaceDTO studentFace)
         {
