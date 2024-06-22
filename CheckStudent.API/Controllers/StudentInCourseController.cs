@@ -25,6 +25,13 @@ namespace CheckStudent.API.Controllers
             return Ok(studentInCourses);
         }
 
+        [HttpGet("{id}")]
+        public ActionResult GetStudentInCourseById(int id)
+        {
+            var responseStudentInCourse = _unitOfWork.StudentInCourseRepository.GetByID(id);
+            return Ok(responseStudentInCourse);
+        }
+
         [HttpPost]
         public IActionResult AddStudentInCourse([FromBody] StudentInCourseDTO studentInCourse)
         {
