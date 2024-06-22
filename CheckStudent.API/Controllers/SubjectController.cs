@@ -56,6 +56,10 @@ namespace CheckStudent.API.Controllers
         {
             var existedSubjectEntity = _unitOfWork.SubjectRepository.GetByID(id);
             _unitOfWork.SubjectRepository.Delete(existedSubjectEntity);
+            if (existedSubjectEntity == null)
+            {
+                return NotFound();
+            }
             _unitOfWork.Save();
             return Ok();
         }
