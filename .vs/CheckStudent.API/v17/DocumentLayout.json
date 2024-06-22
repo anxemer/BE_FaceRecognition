@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.api\\controllers\\studentfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.api\\controllers\\studentincoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentincoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.api\\controllers\\studentfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\studentfacecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D0EE7773-AE70-4A73-9864-8E68AF05AEA2}|CheckStudent.Repository\\CheckStudent.Repository.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.repository\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,45 +62,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "StudentFaceController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentFaceController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentFaceController.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentFaceController.cs",
               "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentFaceController.cs",
-              "ViewState": "AQIAACgAAAAAAAAAAAAkwDUAAAAtAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T18:01:30.966Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentInCourseController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentInCourseController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentInCourseController.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentInCourseController.cs",
               "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentInCourseController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAASAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAkwD0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:12:14.797Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwEAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:09:25.822Z",
+              "WhenOpened": "2024-06-22T04:12:14.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
@@ -116,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",

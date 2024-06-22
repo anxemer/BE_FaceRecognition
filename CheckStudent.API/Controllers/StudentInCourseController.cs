@@ -51,5 +51,14 @@ namespace CheckStudent.API.Controllers
             _unitOfWork.Save();
             return Ok(studentInCourse);
         }
+
+        [HttpDelete("{id}")]
+        public ActionResult DeleteStudentInCourse(int id)
+        {
+            var existedStudentInCourseEntity = _unitOfWork.StudentInCourseRepository.GetByID(id);
+            _unitOfWork.StudentInCourseRepository.Delete(existedStudentInCourseEntity);
+            _unitOfWork.Save();
+            return Ok();
+        }
     }
 }
