@@ -25,6 +25,13 @@ namespace CheckStudent.API.Controllers
             return Ok(semesters);
         }
 
+        [HttpGet("{id}")]
+        public ActionResult GetSemesterById(int id)
+        {
+            var responseSemester = _unitOfWork.SemesterRepository.GetByID(id);
+            return Ok(responseSemester);
+        }
+
         [HttpPost]
         public IActionResult AddSemester([FromBody] SemesterDTO semester)
         {
