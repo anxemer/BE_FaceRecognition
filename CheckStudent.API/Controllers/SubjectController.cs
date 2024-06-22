@@ -25,6 +25,13 @@ namespace CheckStudent.API.Controllers
             return Ok(subjects);
         }
 
+        [HttpGet("{id}")]
+        public ActionResult GetSubjectById(int id)
+        {
+            var responseSubject = _unitOfWork.SubjectRepository.GetByID(id);
+            return Ok(responseSubject);
+        }
+
         [HttpPost]
         public IActionResult AddSubject([FromBody] SubjectDTO subject)
         {
