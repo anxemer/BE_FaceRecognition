@@ -17,11 +17,19 @@ namespace CheckStudent.API.Controllers
         {
             _unitOfWork = unitOfWork;
         }
+
         [HttpGet]
         public IActionResult GetCourses()
         {
             var courses = _unitOfWork.CourseRepository.Get();
             return Ok(courses);
+        }
+
+        [HttpGet("{id}")]
+        public ActionResult GetCourseById(int id)
+        {
+            var responseCourse = _unitOfWork.CourseRepository.GetByID(id);
+            return Ok(responseCourse);
         }
 
         [HttpPost]
