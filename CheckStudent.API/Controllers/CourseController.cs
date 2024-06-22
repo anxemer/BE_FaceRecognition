@@ -62,5 +62,14 @@ namespace CheckStudent.API.Controllers
             // Return the added Course (you might want to return the newly created Course object instead of the DTO)
             return Ok(course);
         }
+
+        [HttpDelete("{id}")]
+        public ActionResult DeleteCourse(int id)
+        {
+            var existedCourseEntity = _unitOfWork.CourseRepository.GetByID(id);
+            _unitOfWork.CourseRepository.Delete(existedCourseEntity);
+            _unitOfWork.Save();
+            return Ok();
+        }
     }
 }

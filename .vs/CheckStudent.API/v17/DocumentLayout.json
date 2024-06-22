@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|d:\\university\\swd392\\checkstudent\\source code\\be_facerecognition\\checkstudent.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37001E43-1499-40F3-9C18-BCB3787806AE}|CheckStudent.API\\CheckStudent.API.csproj|solutionrelative:checkstudent.api\\controllers\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,19 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "CheckStudent.API\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAkwEgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T17:49:08.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "SubjectController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\SubjectController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\SubjectController.cs",
               "ToolTip": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\SubjectController.cs",
               "RelativeToolTip": "CheckStudent.API\\Controllers\\SubjectController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAxwCAAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T04:14:50.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StudentInCourseController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentInCourseController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentInCourseController.cs",
@@ -87,12 +104,11 @@
               "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentInCourseController.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAYwCIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:12:14.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T04:12:14.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StudentController.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.API\\Controllers\\StudentController.cs",
               "RelativeDocumentMoniker": "CheckStudent.API\\Controllers\\StudentController.cs",
@@ -100,12 +116,11 @@
               "RelativeToolTip": "CheckStudent.API\\Controllers\\StudentController.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T04:09:25.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T04:09:25.822Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
@@ -113,12 +128,11 @@
               "RelativeToolTip": "CheckStudent.Repository\\UnitOfWork\\UnitOfWork.cs",
               "ViewState": "AQIAAGUAAAAAAAAAAAAAAHcAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:10:01.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T01:10:01.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
@@ -126,8 +140,7 @@
               "RelativeToolTip": "CheckStudent.Repository\\UnitOfWork\\IUnitOfWork.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAkwBMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T01:09:46.688Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T01:09:46.688Z"
             }
           ]
         }
