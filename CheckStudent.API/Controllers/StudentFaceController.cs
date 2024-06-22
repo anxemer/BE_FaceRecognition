@@ -54,6 +54,10 @@ namespace CheckStudent.API.Controllers
         public ActionResult DeleteStudentFace(int id)
         {
             var existedStudentFaceEntity = _unitOfWork.StudentFaceRepository.GetByID(id);
+            if (existedStudentFaceEntity == null)
+            {
+                return NotFound();
+            }
             _unitOfWork.StudentFaceRepository.Delete(existedStudentFaceEntity);
             _unitOfWork.Save();
             return Ok();
