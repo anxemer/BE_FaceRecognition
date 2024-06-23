@@ -52,6 +52,23 @@ namespace CheckStudent.API.Controllers
             return Ok(semester);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult UpdateSemester(int id, Semester semester)
+        {
+            var existedSemester = _unitOfWork.SemesterRepository.GetByID(id);
+            if (existedSemester != null)
+            {
+                existedSemester.Name = semester.Name;
+                existedSemester.Description = semester.Description;
+                existedSemester.StartTime = semester.StartTime;
+                existedSemester.EndTime = semester.EndTime;
+                existedSemester.CourseId = semester.CourseId;
+            }
+            _unitOfWork.SemesterRepository.Update(existedSemester);
+            _unitOfWork.Save();
+            return Ok();
+        }
+
         [HttpDelete("{id}")]
         public ActionResult DeleteSemester(int id)
         {
