@@ -52,6 +52,23 @@ namespace CheckStudent.API.Controllers
             return Ok(studentInCourse);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult UpdateStudentInCourse(int id, StudentInCourse studentInCourse)
+        {
+            var existedStudentInCourse = _unitOfWork.StudentInCourseRepository.GetByID(id);
+            if (existedStudentInCourse != null)
+            {
+                existedStudentInCourse.EnrollmentDate = studentInCourse.EnrollmentDate;
+                existedStudentInCourse.Grade = studentInCourse.Grade;
+                existedStudentInCourse.Note = studentInCourse.Note;
+                existedStudentInCourse.StudentId = studentInCourse.StudentId;
+                existedStudentInCourse.CourseId = studentInCourse.CourseId;
+            }
+            _unitOfWork.StudentInCourseRepository.Update(existedStudentInCourse);
+            _unitOfWork.Save();
+            return Ok();
+        }
+
         [HttpDelete("{id}")]
         public ActionResult DeleteStudentInCourse(int id)
         {
