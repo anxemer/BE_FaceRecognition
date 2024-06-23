@@ -56,6 +56,10 @@ namespace CheckStudent.API.Controllers
         public ActionResult DeleteSemester(int id)
         {
             var existedSemesterEntity = _unitOfWork.SemesterRepository.GetByID(id);
+            if (existedSemesterEntity == null)
+            {
+                return NotFound();
+            }
             _unitOfWork.SemesterRepository.Delete(existedSemesterEntity);
             _unitOfWork.Save();
             return Ok();
