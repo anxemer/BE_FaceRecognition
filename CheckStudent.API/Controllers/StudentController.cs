@@ -58,6 +58,10 @@ namespace CheckStudent.API.Controllers
         public ActionResult DeleteStudent(int id)
         {
             var existedStudentEntity = _unitOfWork.StudentRepository.GetByID(id);
+            if (existedStudentEntity == null)
+            {
+                return NotFound();
+            }
             _unitOfWork.StudentRepository.Delete(existedStudentEntity);
             _unitOfWork.Save();
             return Ok();
