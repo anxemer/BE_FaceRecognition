@@ -51,6 +51,22 @@ namespace CheckStudent.API.Controllers
             return Ok(subject);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult UpdateSubject(int id, Subject subject)
+        {
+            var existedSubject = _unitOfWork.SubjectRepository.GetByID(id);
+            if (existedSubject != null)
+            {
+                existedSubject.Code = subject.Code;
+                existedSubject.Name = subject.Name;
+                existedSubject.Description = subject.Description;
+                existedSubject.Prerequisite = subject.Prerequisite;
+            }
+            _unitOfWork.SubjectRepository.Update(existedSubject);
+            _unitOfWork.Save();
+            return Ok();
+        }
+
         [HttpDelete("{id}")]
         public ActionResult DeleteSubject(int id)
         {
