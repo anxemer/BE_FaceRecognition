@@ -50,6 +50,21 @@ namespace CheckStudent.API.Controllers
             return Ok(studentFace);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult UpdateStudentFace(int id, StudentFace studentFace)
+        {
+            var existedStudentFace = _unitOfWork.StudentFaceRepository.GetByID(id);
+            if (existedStudentFace != null)
+            {
+                existedStudentFace.FaceData = studentFace.FaceData;
+                existedStudentFace.CaptureDate = studentFace.CaptureDate;
+                existedStudentFace.StudentId = studentFace.StudentId;
+            }
+            _unitOfWork.StudentFaceRepository.Update(existedStudentFace);
+            _unitOfWork.Save();
+            return Ok();
+        }
+
         [HttpDelete("{id}")]
         public ActionResult DeleteStudentFace(int id)
         {
