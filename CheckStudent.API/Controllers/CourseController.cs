@@ -67,6 +67,10 @@ namespace CheckStudent.API.Controllers
         public ActionResult DeleteCourse(int id)
         {
             var existedCourseEntity = _unitOfWork.CourseRepository.GetByID(id);
+            if (existedCourseEntity == null)
+            {
+                return NotFound();
+            }
             _unitOfWork.CourseRepository.Delete(existedCourseEntity);
             _unitOfWork.Save();
             return Ok();
