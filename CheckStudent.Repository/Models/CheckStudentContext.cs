@@ -166,23 +166,6 @@ public partial class CheckStudentContext : DbContext
             entity.Property(e => e.Prerequisite).HasMaxLength(500);
         });
 
-        modelBuilder.Entity<User>(entity =>
-        {
-            entity.HasKey(e => e.Id).HasName("PK_User_Id"); // Thay 12345678 bằng giá trị hash phù hợp
-
-            entity.ToTable("User");
-
-            entity.Property(e => e.Id).HasColumnName("ID");
-            entity.Property(e => e.Username)
-                .IsRequired()
-                .HasMaxLength(50);
-            entity.Property(e => e.Password)
-                .IsRequired()
-                .HasMaxLength(100);
-            entity.Property(e => e.Role).HasMaxLength(50);
-        });
-
-
         OnModelCreatingPartial(modelBuilder);
     }
 
