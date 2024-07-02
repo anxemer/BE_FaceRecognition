@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vMyhmiDgyoGa6lCEuGn228+qj79yJV115XGlW/WwtJJ/9PQWX32ixdv/hsJ80BB5Fyb1kSaXUs33y8i91nvLfQ==",
+  "dgSpecHash": "K7tSpnJTez4IkPi+ybcVoTIY/e/6eZPU+WWwJmV/DbHZuwH+p8InC7yReclQs1luNRH/SMams3ORN6OnY0PTWQ==",
   "success": true,
   "projectFilePath": "D:\\University\\SWD392\\CheckStudent\\Source Code\\BE_FaceRecognition\\CheckStudent.Repository\\CheckStudent.Repository.csproj",
   "expectedPackageFiles": [
@@ -21,7 +21,7 @@
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\8.0.6\\microsoft.entityframeworkcore.analyzers.8.0.6.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.entityframeworkcore.design\\8.0.6\\microsoft.entityframeworkcore.design.8.0.6.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\8.0.6\\microsoft.entityframeworkcore.relational.8.0.6.nupkg.sha512",
-    "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.5\\microsoft.entityframeworkcore.sqlserver.8.0.5.nupkg.sha512",
+    "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.6\\microsoft.entityframeworkcore.sqlserver.8.0.6.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
     "C:\\Users\\Phuc\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",

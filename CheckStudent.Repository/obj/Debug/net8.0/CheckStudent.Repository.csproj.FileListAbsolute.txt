@@ -24,3 +24,5 @@ D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.Re
 D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.Repository\obj\Debug\net8.0\refint\CheckStudent.Repository.dll
 D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.pdb
 D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.Repository\obj\Debug\net8.0\ref\CheckStudent.Repository.dll
+D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.Repository\bin\Debug\net8.0\CheckStudent.Repository.runtimeconfig.json
+D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.Repository\obj\Debug\net8.0\CheckStudent.Repository.genruntimeconfig.cache

@@ -144,3 +144,4 @@ D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.AP
 D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.API\obj\Debug\net8.0\CheckStudent.API.pdb
 D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.API\obj\Debug\net8.0\CheckStudent.API.genruntimeconfig.cache
 D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.API\obj\Debug\net8.0\ref\CheckStudent.API.dll
+D:\University\SWD392\CheckStudent\Source Code\BE_FaceRecognition\CheckStudent.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
