@@ -39,6 +39,11 @@ namespace CheckStudent.API.Controllers
             {
                 return BadRequest("Semester data is null");
             }
+            // Validate CourseId presence
+            if (semester.CourseId == 0)
+            {
+                return BadRequest("CourseId is required for the Semester");
+            }
             var addSemester = new Semester
             {
                 Name = semester.Name,

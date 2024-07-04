@@ -39,6 +39,11 @@ namespace CheckStudent.API.Controllers
             {
                 return BadRequest("StudentFace data is null");
             }
+            // Validate StudentId presence
+            if (studentFace.StudentId == 0)
+            {
+                return BadRequest("StudentId is required for the StudentFace");
+            }
             var addStudentFace = new StudentFace
             {
                 FaceData = studentFace.FaceData,

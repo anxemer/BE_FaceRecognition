@@ -39,6 +39,16 @@ namespace CheckStudent.API.Controllers
             {
                 return BadRequest("Student In Course data is null");
             }
+            // Validate StudentId presence
+            if (studentInCourse.StudentId == 0)
+            {
+                return BadRequest("StudentId is required for the Course");
+            }
+            // Validate CourseId presence
+            if (studentInCourse.CourseId == 0)
+            {
+                return BadRequest("CourseId is required for the Course");
+            }
             var addStudentInCourse = new StudentInCourse
             {
                 EnrollmentDate = studentInCourse.EnrollmentDate,
